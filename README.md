@@ -3,8 +3,8 @@
 
 Holalacola
 
-Este soy yo:
-![ImagenPerro](./imagenes/perro.jpg)
+Este soy yo: XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 
 <h2 align='center'>Learning</h2>
