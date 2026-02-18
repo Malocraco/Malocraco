@@ -17,8 +17,6 @@
 - 🔭 Actualmente estoy trabajando en un **Dispensador de Llaves** inteligente.
 - 🌱 Estoy aprendiendo y mejorando mis habilidades en **Flutter** y **animaciones web**.
 - 🎯 Mi objetivo es colaborar en proyectos Open Source y crear experiencias digitales únicas.
-- 💬 Pregúntame sobre **Python, Desarrollo Móvil y Web**.
-
 ---
 
 ### 🛠️ Stack Tecnológico
