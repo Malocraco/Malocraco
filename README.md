@@ -13,5 +13,19 @@
 <br>
 
 <!-- About me section with animation -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtZzV3M2RqdW1lMmJ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d2x1eHh4dHRiYmZ4d
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+## 🚀 Sobre Mí
+
+```python
+class DesarrolladorJunior:
+    def __init__(self):
+        self.nombre = "Juan Pablo Ramírez Lozano"
+        self.rol = "Desarrollador Junior"
+        self.formacion = "Tecnólogo en Análisis y Desarrollo de Software"
+        self.estado = "Aprendiz SENA - Etapa Productiva (Abril 2026)"
+        self.ubicacion = "Colombia 🇨🇴"
+        self.pasion = "Automatización con IA"
+    
+    def saludar(self):
+        return "¡Bienvenido a mi perfil! 👨‍💻"
