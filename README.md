@@ -1,4 +1,4 @@
-# Hola, soy Juan Pablo Ramirez Dev 👋
+# Hola, soy Juan Pablo Ramirez Dev 
 
 ### 🎓 Aprendiz SENA | Análisis y Desarrollo de Software
 
@@ -10,14 +10,14 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
 ¡Hola! Soy un **Aprendiz SENA** apasionado por la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y actualmente estoy enfocado en el **desarrollo de aplicaciones móviles** y **páginas web interactivas** con animaciones dinámicas.
 
-- 🔭 Actualmente estoy trabajando en un **Dispensador de Llaves** inteligente.
-- 🌱 Estoy aprendiendo y mejorando mis habilidades en **Flutter** y **animaciones web**.
-- 🎯 Mi objetivo es colaborar en proyectos Open Source y crear experiencias digitales únicas.
-- 💬 Pregúntame sobre **Python, Desarrollo Móvil y Web**.
+-  Actualmente estoy trabajando en un **Dispensador de Llaves** inteligente.
+-  Estoy aprendiendo y mejorando mis habilidades en **Flutter** y **animaciones web**.
+-  Mi objetivo es colaborar en proyectos Open Source y crear experiencias digitales únicas.
+-  Pregúntame sobre **Python, Desarrollo Móvil y Web**.
 
 ---
 
@@ -55,14 +55,10 @@
 
 ### 📊 Estadísticas de GitHub
 
-<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Malocraco&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malocraco&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
--->
-
-*(Nota: Las estadísticas están ocultas temporalmente porque el servicio externo `github-readme-stats` parece estar caído en este momento. Intenta descomentarlas más tarde)*
 
 ---
 
