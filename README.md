@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi Everyone
 
 
-Holalacola
+# Hola Soy Juan Ramirez Lozano
 
-# Hola Soy Juan Ramirez ✨
+# Aprendiz del Sena realizando el tecnologo en Analisis y desarrollo de software.
 
 
 
