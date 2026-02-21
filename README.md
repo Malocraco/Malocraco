@@ -1,6 +1,6 @@
 # Hola, soy Juan Pablo Ramirez Dev 
 
-### 🎓 Aprendiz SENA | Análisis y Desarrollo de Software
+### Aprendiz SENA | Análisis y Desarrollo de Software
 
 ---
 
