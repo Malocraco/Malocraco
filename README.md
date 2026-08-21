@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 ---
 
-### 💻 Proyectos Destacados
+### Proyectos Destacados
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Malocraco&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -58,7 +58,7 @@
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 <div align="center">
   <a href="mailto:juanpabloramirezlozano77@gmail.com">
