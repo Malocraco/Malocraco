@@ -1,12 +1,8 @@
 # Hola, soy Juan Pablo Ramirez Dev 
 
-### Aprendiz SENA | Análisis y Desarrollo de Software
+### Análista y Desarrollador de Software
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Juan%20Pablo%20Ramirez%20Dev&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Aprendiz%20SENA%20|%20Análisis%20y%20Desarrollo%20de%20Software&descAlignY=55&descAlign=50" alt="Header" width="100%" />
-</div>
 
 ---
 
