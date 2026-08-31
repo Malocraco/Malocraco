@@ -35,17 +35,6 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </div>
-
----
-
-### Proyectos Destacados
-
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| **🍕 PizzaGo** | Aplicación móvil para domicilio de pizza. Permite a los usuarios personalizar y pedir sus pizzas favoritas. | `Flutter` `Dart` |
-| **🔑 Dispensador de Llaves** | Sistema automatizado de hardware y software para la gestión y entrega de llaves. | `Python` `IoT` |
-| **🔌 API PizzaGo** | Backend robusto que facilita la comunicación entre la app móvil y la plataforma web. | `Laravel` `API REST` |
-
 ---
 
 
