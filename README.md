@@ -1,6 +1,6 @@
-                                                # Hola, soy Juan Pablo Ramirez Dev 
+                                                Hola, soy Juan Pablo Ramirez Dev 
 
-### Análista y Desarrollador de Software
+                                              Análista y Desarrollador de Software
 
 ---
 
