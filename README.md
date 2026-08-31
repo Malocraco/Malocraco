@@ -8,12 +8,12 @@
 
     Sobre mí
       
-    ¡Hola! Soy un **Aprendiz SENA** apasionado por la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y
-    actualmente estoy enfocado en el **desarrollo de aplicaciones móviles** y **páginas web interactivas** con animaciones dinámicas.
+    ¡Hola! Soy un Aprendiz SENA apasionado por la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y
+    actualmente estoy enfocado en el desarrollo de aplicaciones móviles y páginas web interactivas con animaciones dinámicas.
       
-    -  Estoy aprendiendo y mejorando mis habilidades en **Flutter** y **animaciones web**.
+    -  Estoy aprendiendo y mejorando mis habilidades en Flutter y animaciones web.
     -  Mi objetivo es colaborar en proyectos Open Source y crear experiencias digitales únicas.
-    -  Pregúntame sobre **Python, Desarrollo Móvil y Web**.
+    -  Pregúntame sobre Python, Desarrollo Móvil y Web.
 
 ---
     Stack Tecnológico
